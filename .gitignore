@@ -1,3 +1,9 @@
 *
 !*/
 !*.*
+*.o
+*.out
+*.exe
+in.txt
+out.txt
+expected.txt
